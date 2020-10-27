@@ -6,15 +6,9 @@ import java.util.List;
 
 import javax.persistence.*;
 
-/**
- * Entity implementation class for Entity: Orders
- *
- */
 @Entity
-
 public class Orders implements Serializable {
 
-	
 	private static final long serialVersionUID = 1L;
 
 	@Id
